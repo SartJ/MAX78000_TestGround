@@ -11,7 +11,7 @@ Info : [max32xxx.cpu] Cortex-M4 r0p1 processor detected
 Info : [max32xxx.cpu] target has 6 breakpoints, 4 watchpoints
 Info : starting gdb server for max32xxx.cpu on pipe
 [max32xxx.cpu] halted due to debug-request, current mode: Thread 
-xPSR: 0x610f0000 pc: 0x1000230a msp: 0x2001ffe8
+xPSR: 0x210f0000 pc: 0x1000090a msp: 0x2001ffc0
 Info : SWD DPIDR 0x2ba01477
 [max32xxx.cpu] halted due to debug-request, current mode: Thread 
 xPSR: 0x81000000 pc: 0x00002124 msp: 0x20003ff0
@@ -24,8 +24,12 @@ Info : SWD DPIDR 0x2ba01477
 [max32xxx.cpu] halted due to debug-request, current mode: Thread 
 xPSR: 0x81000000 pc: 0x00002124 msp: 0x20003ff0
 Info : Padding image section 0 at 0x10009694 with 12 bytes
-Warn : keep_alive() was not invoked in the 1000 ms timelimit. GDB alive packet not sent! (2188 ms). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000 ms timelimit. GDB alive packet not sent! (4264 ms). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000 ms timelimit. GDB alive packet not sent! (1064 ms). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000 ms timelimit. GDB alive packet not sent! (3534 ms). Workaround: increase "set remotetimeout" in GDB
+Warn : keep_alive() was not invoked in the 1000 ms timelimit. GDB alive packet not sent! (1381 ms). Workaround: increase "set remotetimeout" in GDB
 Info : SWD DPIDR 0x2ba01477
+Warn : keep_alive() was not invoked in the 1000 ms timelimit. GDB alive packet not sent! (1178 ms). Workaround: increase "set remotetimeout" in GDB
 [max32xxx.cpu] halted due to debug-request, current mode: Thread 
 xPSR: 0x81000000 pc: 0x00002124 msp: 0x20003ff0
 Info : dropped 'gdb' connection
