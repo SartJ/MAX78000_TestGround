@@ -1,0 +1,43 @@
+/home/ectf/Desktop/MAX78000_TestGround/SDHC_FTHR/build/Fat32Driver/ff.o: \
+ source/ff.c \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/string.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/_ansi.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/newlib.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/_newlib_version.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/config.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/ieeefp.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/features.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/reent.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/_ansi.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_types.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_types.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_default_types.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/lock.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/cdefs.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_locale.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/strings.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/string.h \
+ source/ff.h /home/ectf/MaximSDK/Libraries/SDHC/ff15/source/conf/ffconf.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/stdint.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_intsup.h \
+ /home/ectf/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_stdint.h \
+ source/diskio.h \
+ /home/ectf/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/rtc.h \
+ /home/ectf/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_device.h \
+ /home/ectf/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/max78000.h \
+ /home/ectf/MaximSDK/Libraries/CMSIS/Include/core_cm4.h \
+ /home/ectf/MaximSDK/Libraries/CMSIS/Include/core_cmInstr.h \
+ /home/ectf/MaximSDK/Libraries/CMSIS/Include/core_cmFunc.h \
+ /home/ectf/MaximSDK/Libraries/CMSIS/Include/core_cm4_simd.h \
+ /home/ectf/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/system_max78000.h \
+ /home/ectf/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/gcr_regs.h \
+ /home/ectf/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_errors.h \
+ /home/ectf/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_pins.h \
+ /home/ectf/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/gpio.h \
+ /home/ectf/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/gpio_regs.h \
+ /home/ectf/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/rtc_regs.h \
+ /home/ectf/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_sys.h \
+ /home/ectf/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/lpgcr_regs.h \
+ /home/ectf/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/gcr_regs.h
